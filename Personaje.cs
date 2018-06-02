@@ -14,5 +14,10 @@ public class Personaje : MonoBehaviour {
 
 	void Update () {
 
+		if (vida <= 0) {
+			Debug.Log ("muerte");
+		} else {
+			Debug.Log (vida);
+		}
 	}
 }
