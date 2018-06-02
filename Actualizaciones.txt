@@ -43,5 +43,4 @@ Actualizé los scripts. Las pruebas que hice no fuero exitosas. Tengo entendido 
 conseguido que la consola me muestre los cambios.
 - Francisco Bravo
 
-Añadí el healthbar con su respectivo script
--Chumpitaz 12:58
+
