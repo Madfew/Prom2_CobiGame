@@ -42,3 +42,6 @@ Ahi lo subo.
 Actualizé los scripts. Las pruebas que hice no fuero exitosas. Tengo entendido que todo funciona pero no he 
 conseguido que la consola me muestre los cambios.
 - Francisco Bravo
+
+No sé si valga faltando 3 minutos pero hice un último cambio :'c
+- Francisco 12:57
