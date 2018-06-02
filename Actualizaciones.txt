@@ -21,3 +21,5 @@ el solo esta creando la barra de vida. Que se vera afectada por tu código.
 Manden sus avances de script al repositorio. SOLO el script.
 - Mafer 12:03
 
+No termino de entender cómo funciona esta vaina pero hice un pull, creo, no sé :'v feedback plocs :c
+- Francisco 12:10
