@@ -8,3 +8,8 @@ Okis :3
 
 ya estoy.
 - Mafer 11:32
+
+Una consulta. Para lo del golpe y el veneno vamos a usar objetos o botones en un canvas?
+Porque estaba pensando hacer un OnClick() y se me ocurre que sería mucho más sencillo
+con botones.
+- Francisco 11:39
