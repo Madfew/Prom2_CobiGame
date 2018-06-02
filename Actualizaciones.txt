@@ -21,3 +21,6 @@ el solo esta creando la barra de vida. Que se vera afectada por tu código.
 Chicos necesito que me digan mas o menos en cuanto tiempo terminarán sus códigos. Por favor, 
 tengo que ver que puedo ir uniendo de lo suyo.
 - Mafer 11:51
+
+En 10 minutos máximo ya tengo una primera versión de los 3 scripts.
+- Francisco 11:57
