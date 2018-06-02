@@ -13,3 +13,7 @@ Una consulta. Para lo del golpe y el veneno vamos a usar objetos o botones en un
 Porque estaba pensando hacer un OnClick() y se me ocurre que sería mucho más sencillo
 con botones.
 - Francisco 11:39
+
+Sí, usaremos un boton para el golpe y otro para el veneno
+si hay algo raro en el git, me avisan hice algo con merge o algo así
+- Fernando 11:46
