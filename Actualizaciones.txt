@@ -14,7 +14,11 @@ Porque estaba pensando hacer un OnClick() y se me ocurre que sería mucho más s
 con botones.
 - Francisco 11:39
 
-Sí, usaremos un boton para el golpe y otro para el veneno
-si hay algo raro en el git, me avisan hice algo con merge o algo así
-(ya lo arreglé)
-- Fernando 11:46
+Osea si normal lo puedes hacer eso en tu script y probarlo en el Unity. Habla eso bien con Chumoi,
+el solo esta creando la barra de vida. Que se vera afectada por tu código.
+- Mafer 11:44
+
+Chicos necesito que me digan mas o menos en cuanto tiempo terminarán sus códigos. Por favor, 
+tengo que ver que puedo ir uniendo de lo suyo.
+- Mafer 11:51
+
