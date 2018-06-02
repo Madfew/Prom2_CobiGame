@@ -5,16 +5,27 @@ using UnityEngine;
 public class Golpe : MonoBehaviour {
 
 	public GameObject personaje;
-	int	vidaPersonaje;
+	public float vidaPersonaje;
 
-	void Start () {
+	void Update () {
 		
 		vidaPersonaje = personaje.GetComponent<Personaje> ().vida;
+
+		if (vidaPersonaje <= 0) {
+			Debug.Log ("muerte");
+		} else {
+			Debug.Log (vidaPersonaje);
+		}
 			
 	}
+		
+	public void OnClick() {
 
-	void OnClick() {
+		if (vidaPersonaje >= 0) {
+			vidaPersonaje = vidaPersonaje - 20;
+		} else {
+			vidaPersonaje = 0;
+		}
 
-		vidaPersonaje = vidaPersonaje - 20;
 	}
 }
