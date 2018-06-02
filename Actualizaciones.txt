@@ -18,7 +18,6 @@ Osea si normal lo puedes hacer eso en tu script y probarlo en el Unity. Habla es
 el solo esta creando la barra de vida. Que se vera afectada por tu código.
 - Mafer 11:44
 
-Chicos necesito que me digan mas o menos en cuanto tiempo terminarán sus códigos. Por favor, 
-tengo que ver que puedo ir uniendo de lo suyo.
-- Mafer 11:51
+Manden sus avances de script al repositorio. SOLO el script.
+- Mafer 12:03
 
