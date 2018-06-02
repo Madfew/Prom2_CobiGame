@@ -32,3 +32,6 @@ Lo mío ya está no? Los 3 scripts? no?
 
 Sip! Solo falta Chumpitaz.
 - Mafer 12:22
+
+Ya añadí el healthbar, Mafer el archivo de Unity
+-Chumpitaz 12:36
