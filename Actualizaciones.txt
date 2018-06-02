@@ -16,4 +16,5 @@ con botones.
 
 Sí, usaremos un boton para el golpe y otro para el veneno
 si hay algo raro en el git, me avisan hice algo con merge o algo así
+(ya lo arreglé)
 - Fernando 11:46
