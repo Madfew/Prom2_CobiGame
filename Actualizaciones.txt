@@ -20,3 +20,4 @@ Osea si normal lo puedes hacer eso en tu script y probarlo en el Unity. Habla es
 el solo esta creando la barra de vida. Que se vera afectada por tu código.
 - Mafer 11:44
 
+
