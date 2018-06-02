@@ -23,3 +23,6 @@ el solo esta creando la barra de vida. Que se vera afectada por tu código.
 Chicos urgente sus avances! Por ahora les dije que solo scripts, ya cuando me manden eso entraremos cada uno
 luego en escena. Por fa manden sus scripts. x2
 - Mafer (Estado: preocupada) 12:16
+
+tuve un enorme problema con git avanzaré todo lo que pueda
+-Fernando 12:17
