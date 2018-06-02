@@ -5,18 +5,28 @@ using UnityEngine;
 public class Veneno : MonoBehaviour {
 
 	public GameObject personaje;
-	int	vidaPersonaje;
-	public float damageTime = 5f;
+	public float vidaPersonaje;
+	public float damageTime = 2f;
 
-	void Start () {
+	void Update () {
 
 		vidaPersonaje = personaje.GetComponent<Personaje> ().vida;
 
+		if (vidaPersonaje <= 0) {
+			Debug.Log ("muerte");
+		} else {
+			Debug.Log (vidaPersonaje);
+		}
+
 	}
 
-	void OnClick() {
+	public void OnClick() {
 
-		StartCoroutine ("DañoVeneno");
+		if (vidaPersonaje >= 0) {
+			StartCoroutine ("DañoVeneno");
+		} else {
+			vidaPersonaje = 0;
+		}
 	}
 
 	IEnumerator DañoVeneno() {

@@ -6,9 +6,6 @@ public class Personaje : MonoBehaviour {
 
 	public int vida;
 
-	public GameObject golpe;
-	public GameObject veneno;
-
 	void Start () {
 
 		vida = 100;
@@ -16,6 +13,6 @@ public class Personaje : MonoBehaviour {
 
 
 	void Update () {
-		
+
 	}
 }
