@@ -38,3 +38,7 @@ Ya añadí el healthbar, Mafer el archivo de Unity
 
 Ahi lo subo.
 -Mafer 12:40
+
+Actualizé los scripts. Las pruebas que hice no fuero exitosas. Tengo entendido que todo funciona pero no he 
+conseguido que la consola me muestre los cambios.
+- Francisco Bravo
