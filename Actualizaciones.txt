@@ -13,3 +13,7 @@ Una consulta. Para lo del golpe y el veneno vamos a usar objetos o botones en un
 Porque estaba pensando hacer un OnClick() y se me ocurre que sería mucho más sencillo
 con botones.
 - Francisco 11:39
+
+Osea si normal lo puedes hacer eso en tu script y probarlo en el Unity. Habla eso bien con Chumoi,
+el solo esta creando la barra de vida. Que se vera afectada por tu código.
+- Mafer 11:44
